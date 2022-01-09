@@ -1,4 +1,4 @@
-### Hi there 👋
+### “With languages, you are at home everywhere.” – Edmund de Waal “只要你学会各种语言，在哪里都像是在家里。”——埃德蒙·德·瓦尔👋
 
 <!--
 **zouyunliangf/zouyunliangf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
